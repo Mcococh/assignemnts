@@ -7,3 +7,4 @@ this repository contains my assignments
 [assignment_5](https://github.com/Mcococh/assignemnts/blob/master/Graded_assignment_2upload)
 [Final Python Assignment](https://github.com/Mcococh/assignemnts/blob/master/exam_june_7_2018.ipynb)
 [FinalR](https://github.com/Mcococh/assignemnts/blob/master/Exam_student-lipolija.ipynb)
+Here is my Exam for Python 21 SEP [FinalP21Sep](https://github.com/Mcococh/assignemnts/blob/master/exam_Sep_21_2018%20(1).ipynb)
